@@ -1,0 +1,6 @@
+{
+  "name": "BUMN - Badan Usaha Milik Nainggolan POS & Inventaris",
+  "description": "Sistem Kasir Modern, Manajemen Inventaris Real-Time, Notifikasi Stok Otomatis, dan Analitik Penjualan BUMN (Badan Usaha Milik Nainggolan)",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
